@@ -8,12 +8,13 @@ A Colorado Board of Elections emplyee has given you the following tasks to compl
 3. Calculate the total number of votes each candidates received.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
+6. Determine the winners based on what county they are from and what percentage of residents voted.
 
 ## Resources 
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visula Studio 1.49.2
 
-## Summary
+## Election Audit Results
 The analysis of the election show that:
 - There were total of 369,711 votes cast in the election.
 - The candidates were:
@@ -26,10 +27,9 @@ The analysis of the election show that:
     - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
     - Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
+- The county that had the biggest turnout with voters was Denver with 306,055. That is 82.8% of the voters came from Denver, CO. 
     
-## Challenge Overview
-The purpose of this challenge was to become more familiar with python and coding to analyze an election.
+## Election Audit Summary
+This project was a good example of using data to get inforamtion on a local election. Knowing who won an election is only part of the story. We also were able to find out what percentages and numbers each candidate received. From there, infomation was further extracted to find out the voter percentages of the surrounding counties and how many people voted per county. If were were to look further into this information, I would suggest looking into data the could see how race and gender played a part in the election and who they voted for in each county. A second script that could be run, if we had more data, could be age of the voters and what percentage voted for which candidate. 
 
-## Challenge Summary 
-Overall I feel this was a great way to get python practice.
 
