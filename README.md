@@ -12,10 +12,10 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Resources 
 - Data Source: election_results.csv
-- Software: Python 3.7.6, Visula Studio 1.49.2
+- Software: Python 3.7.6, Visual Studio 1.49.2
 
 ## Election Audit Results
-The analysis of the election show that:
+The analysis of the election shows that:
 - There were total of 369,711 votes cast in the election.
 - The candidates were:
     - Charles Casper Stockham
